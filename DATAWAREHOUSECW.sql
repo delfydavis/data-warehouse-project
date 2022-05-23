@@ -86,7 +86,7 @@ DROP COLUMN DoPrint
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --CLEANING LOCUMREQUEST TABLE
---droping column type of cover ,startdate ,enddate ,monday am,etc as they are empy 
+--droping column type of cover ,startdate ,enddate ,monday am,etc as they are empTy 
 SELECT *
 FROM LOCUMREQUEST
 
