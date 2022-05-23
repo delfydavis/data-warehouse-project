@@ -14,5 +14,5 @@ specialism, for example, a paediatrician, optometrist etc. The type of cover is 
 TYPE_OF_COVER table. When locums register with an agency, their qualifications and references 
 will be checked. 
 
-Here Microsoft SQL management studio tool is used to extract data from access database and also for cleaning and datawarehouse creation.
+Here Microsoft SQL management studio  is used as a tool to extract data from access database and also for cleaning and datawarehouse creation.
 For the prediction of Locum Request Count ARMI model is used and coding is done in jupyter notebook by connecting with sql server.
