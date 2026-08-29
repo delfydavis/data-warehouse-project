@@ -217,7 +217,7 @@ and supporting dimensions for requests, practices, locums, cover types, and time
 
 The schema below shows the relationships implemented in SQL Server.
 
-![NHS Locum Data Warehouse Schema](./data_warehouse_schema.png)
+![Screenshot (99)](https://user-images.githubusercontent.com/74343581/169906916-bdddf06c-3a5b-4fee-8df8-4f337069675b.png)
 
 ### Core warehouse tables
 
